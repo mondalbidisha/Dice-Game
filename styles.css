@@ -1,0 +1,46 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Arima Madurai', cursive !important;
+  text-shadow: 5px 0 #232931;
+  font-size: 5em;
+  color: #4ECCA3;
+  text-transform: uppercase;
+}
+
+p {
+  font-size: 1.3em;
+  color: #4ECCA3;
+  font-family: 'Arima Madurai', cursive !important;
+}
+
+img {
+  width: 80%;
+}
+
+.button {
+  margin-top: 40px;
+  border: 1px solid white;
+  width: 140px;
+  padding: 18px;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  cursor: pointer;
+  font-weight: bold;
+  font-family: 'Arima Madurai', cursive !important;
+}
